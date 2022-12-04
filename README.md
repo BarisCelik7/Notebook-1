@@ -6,18 +6,16 @@
 #     <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/IDSNlogo.png" width="300" alt="cognitiveclass.ai logo"  />
 # </center>
 # 
-# # Writing Your First Python Code
+
 # 
-# Estimated time needed: **25** minutes
+
 # 
 # ## Objectives
 # 
-# After completing this lab you will be able to:
+
 # 
-# *   Write basic code in Python
-# *   Work with various types of data in Python
-# *   Convert the data from one type to another
-# *   Use expressions and variables to perform operations
+
+
 # 
 
 # <h2>Table of Contents</h2>
